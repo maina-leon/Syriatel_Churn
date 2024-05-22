@@ -88,12 +88,14 @@ The models were evaluated using the following metrics:
 - Precision: 0.659
 - Recall: 0.303
 - Accuracy: 0.772
+
 **Random Forest:**
 - ROC-AUC: 0.932
 - F1 Score: 0.934
 - Precision: 1.000
 - Recall: 0.876
 - Accuracy: 0.981
+
 **Gradient Boosting:**
 - ROC-AUC: 0.933
 - F1 Score: 0.929
@@ -112,4 +114,4 @@ The models were evaluated using the following metrics:
 - [Scikit-learn Documentation](https://scikit-learn.org/stable/)
 - [Matplotlib Documentation](https://matplotlib.org/stable/index.html)
 ## Author.
-- [@LeonMaina](https://www.github.com/maina-leon)# Syriatel_Churn
+- [@LeonMaina](https://www.github.com/maina-leon)
